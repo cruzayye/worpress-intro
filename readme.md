@@ -12,7 +12,7 @@ File setup/naming is critial for wordpress development for example in order to s
 ![alt text](https://developer.wordpress.org/files/2014/10/Screenshot-2019-01-23-00.20.04.png "chart from worpress docs")
 
 # Some Wp global functions/hooks that are used are:
-#### Note that all the following functions should be wrapped in: <?php ?> tag
+#### Note that all the following functions should be wrapped in: ```<?php ?> tag```
 ## wp_footer();
 sets up footer.php file so that we can export
 ## wp_header();
